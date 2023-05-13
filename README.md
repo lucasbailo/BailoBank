@@ -7,7 +7,7 @@ This is a code from [Alura](https://www.alura.com.br). In this course, I learned
 ### Screen Shots
 - Header
 
-![](./prints/main.png)
+![](./prints/main2.png)
 
 - Forms - Error
 
